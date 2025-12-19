@@ -1,0 +1,27 @@
+{
+    "name": "Nam Định Luxury - Dịch vụ xe ghép cao cấp",
+    "short_name": "Nam Định Luxury",
+    "description": "Dịch vụ xe ghép chuyên tuyến Nam Định - Hà Nội - Nội Bài. An toàn, tiện lợi, giá cả hợp lý.",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#1a237e",
+    "theme_color": "#1a237e",
+    "orientation": "portrait-primary",
+    "icons": [
+        {
+            "src": "Logo.jpg",
+            "sizes": "192x192",
+            "type": "image/jpeg",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "Logo.jpg",
+            "sizes": "512x512",
+            "type": "image/jpeg",
+            "purpose": "any maskable"
+        }
+    ],
+    "categories": ["transportation", "travel", "business"],
+    "lang": "vi",
+    "dir": "ltr"
+}
