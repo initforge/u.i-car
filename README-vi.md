@@ -4,14 +4,18 @@
 
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white)
 
-Website showroom ô tô với gallery ảnh, hỗ trợ PWA và tích hợp Zalo cho thị trường Việt Nam.
+Website showroom ô tô, hỗ trợ PWA và tích hợp Zalo.
+
+## Xem trước
+
+![UI Car — Website Showroom Ô tô](docs/screenshot.png)
 
 ## Tính năng
 
-- Gallery ảnh xe với grid responsive
-- **Progressive Web App** — cài đặt được với manifest.json + service worker
-- Tích hợp Zalo cho liên hệ khách hàng nhanh
-- Thiết kế mobile-first responsive
+- Gallery ảnh xe responsive
+- **PWA** — cài đặt được với service worker
+- Tích hợp Zalo
+- Mobile-first
 
 ---
 
