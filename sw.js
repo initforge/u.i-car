@@ -7,12 +7,12 @@ const urlsToCache = [
     '/assets/js/script.js',
     '/Logo.jpg',
     '/Anh1.jpg',
-    '/ảnh2.jpg',
-    '/ảnh3.jpg',
-    '/ảnh4.jpg',
-    '/ảnh5.jpg',
-    '/ảnh6.jpg',
-    '/ảnh7.jpg'
+    '/image2.jpg',
+    '/image3.jpg',
+    '/image4.jpg',
+    '/image5.jpg',
+    '/image6.jpg',
+    '/image7.jpg'
 ];
 
 // Install event
