@@ -1,23 +1,19 @@
 🇬🇧 [Read in English](README.md)
 
-# UI Car
-
-Thiết kế giao diện website ô tô
-
-## Công nghệ
+# UI Car — Website Showroom Ô tô
 
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white)
 
+Website showroom ô tô với gallery ảnh, hỗ trợ PWA và tích hợp Zalo cho thị trường Việt Nam.
+
 ## Tính năng
 
-- Gallery trưng bày xe
-- Layout responsive cho ngành ô tô
-- Hệ thống danh sách xe
-- Thiết kế hiện đại
+- Gallery ảnh xe với grid responsive
+- **Progressive Web App** — cài đặt được với manifest.json + service worker
+- Tích hợp Zalo cho liên hệ khách hàng nhanh
+- Thiết kế mobile-first responsive
 
 ---
-
-## Tác giả
 
 **Xuan Linh** — Fullstack Developer
 
